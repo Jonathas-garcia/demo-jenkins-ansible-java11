@@ -10,7 +10,7 @@ public class Controller {
 
     @GetMapping
     public String demo() {
-        return "OK JAVA 11";
+        return "HELLO WORLD ANSIBLE/JENKINS/DOCKER";
     }
 
 }
